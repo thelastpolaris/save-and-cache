@@ -1,12 +1,24 @@
-# <img src="https://raw.githubusercontent.com/bobocode-projects/resources/master/image/logo_transparent_background.png" height=50/>Welcome to the Java Persistence Course
-Build strong skills that you will need for creating persistence layer in a real-world Enterprise Java development 💪
+# Save and Cache
 
-## Why
-Most people don’t know how to learn Enterprise Java efficiently. So we created an **open-source education system**
-that helps them to **master strong skills**, learn **world best practices** and build a **successful career**. 🚀
+Вам необходимо сделать `fork` и выполнить решения.
 
-At Bobocode we have extensive experience in both building Enterprise Java applications and organizing efficient learning.
-Therefore, this course covers what you need in the most efficient way. We believe that
-**the key to efficient learning is practice**. 💪 And as a software engineer, you should **spend as much time as you can in the IDE writing code**.
-At the end of the day, this is the only place where you build software... 💻
+К каждой задаче имеется Техническое задание, доступное в `stepik`.
 
+| Шаг | Название     | Ссылка                  | 
+| --- | ------- | -------------------------     |
+| 1   | one-to-one-schema    | [github.com](./README.md)     |
+| 2   | many-to-many-schema    | [github.com](./README.md)     |
+| 3   | hello-jpa-entity     | [github.com](./README.md)     |
+| 4   | hello-persistence-xml    | [github.com](./README.md)     |
+| 5   | query-helper    | [github.com](./README.md)     |
+| 6   | account-dao     | [github.com](./README.md)     |
+| 7   | employee-profile    | [github.com](./README.md)     |
+| 8   | company-products    | [github.com](./README.md)     |
+| 9   | author-book    | [github.com](./README.md)     |
+| 10   | photo-comment-dao    | [github.com](./README.md)     |
+
+К каждому проекту из списка имеются готовые тесты, которые можно запустить, используя `./mvnv clean test`.
+
+Данный проект, закрепит в ваших знаниях работу с базами данных, особенно со `Spring JPA`.
+
+Дальнейшие главы, описывают задачу каждого проекта.
